@@ -1,0 +1,10 @@
+httpx
+pillow
+coco-lib
+tqdm
+pandas
+numpy
+matplotlib
+seaborn
+pycocotools
+fathomnet
